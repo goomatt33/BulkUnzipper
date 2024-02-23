@@ -1,0 +1,4 @@
+*.sln
+*.csproj
+Unzipper/obj/*
+Unzipper/bin/*
